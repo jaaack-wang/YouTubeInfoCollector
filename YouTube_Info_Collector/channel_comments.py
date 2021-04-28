@@ -20,7 +20,7 @@ def get_comments(url):
 
 
 def main():
-    urls = ['A list of links to Channel homepages of YouTubers...']
+    urls = ["A list of links to YouTube Channels' VIDEOS webpage..."]
     c = 1
     for url in urls:
         print("\n" + "#" * 40)
