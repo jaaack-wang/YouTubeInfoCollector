@@ -141,7 +141,7 @@ def quit_out():
 
 
 def main():
-    urls = ['A list of links to Channel homepages of YouTubers...']
+    urls = ["A list of links to YouTube Channels' VIDEOS webpage..."]
     for url in urls:
         try:
             run(url)
